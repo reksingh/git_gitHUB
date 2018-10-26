@@ -1,5 +1,1 @@
-# git_gitHUB
-Map reduce programs
-Hive
-PIG
-Habse
+# gs-selenium-framework
